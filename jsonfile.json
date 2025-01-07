@@ -1,4 +1,4 @@
 [
-  { "ID": 1, "Name": "Ivan", "Surname": "Ivanov", "Lastname": "Ivanovich", "Number": 12345, "DateOfBirth": 15-10-2015, "DateOfAdmission": 15-01-2025},
-  { "ID": 2, "Name": "Petr", "Surname": "Petrov", "Lastname": "Petrovich", "Number": 54321, "DateOfBirth": 01-01-2005, "DateOfAdmission": 15-01-2025}
+  { "ID": 1, "Name": "Ivan", "Surname": "Ivanov", "Lastname": "Ivanovich", "Number": 12345, "DateOfBirth": "15-10-2015", "DateOfAdmission": "15-01-2025"},
+  { "ID": 2, "Name": "Petr", "Surname": "Petrov", "Lastname": "Petrovich", "Number": 54321, "DateOfBirth": "01-01-2005", "DateOfAdmission": "15-01-2025"}
 ]
